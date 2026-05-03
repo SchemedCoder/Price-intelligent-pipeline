@@ -169,10 +169,5 @@ The system identifies the lowest price point and triggers a:
 
 This project demonstrates how data engineering principles can be applied to real-world consumer problems by transforming raw data into actionable insights.
 
----
 
-👤 Author
-
-Navin Tigga
-Data Engineering Enthusiast
 
